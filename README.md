@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevepott3r
 - 👀 I’m interested in cloud, automation, crypto, blockchain
-- 🌱 I’m currently learning about blockchain
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about blockchain & GCP 
+- 💞️ I’m looking to collaborate on anything that runs in the cloud 
 - 📫 How to reach me ...
 
 <!---
