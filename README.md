@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevepott3r
-- 👀 I’m interested in cloud, automation, crypto, blockchain
-- 🌱 I’m currently learning about AIops & GCP 
+- 👀 I’m interested in cloud, automation,AI, new tech, old tech
+- 🌱 I’m currently learning about AIops, Vibe coding and GCP
 - 💞️ I’m looking to collaborate on anything that runs in the cloud 
 - 📫 How to reach me ...
 -stevepott3r.com 
